@@ -1,0 +1,7 @@
+node_modules/
+/src/**/*.test.js
+/src/__tests__
+/src/__mocks__
+index.js
+metro.config.js
+jest.config.js
